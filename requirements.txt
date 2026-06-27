@@ -1,0 +1,14 @@
+# Python 3.10+
+#
+# Discord bot runtime
+discord.py>=2.4,<3
+python-dotenv>=1.0,<2
+aiohttp>=3.9,<4
+
+# OCR / image processing
+pytesseract>=0.3,<1
+Pillow>=10,<12
+numpy>=1.26,<3
+opencv-python-headless>=4.9,<5
+deskew>=1.5,<2
+pyspellchecker>=0.8,<1
